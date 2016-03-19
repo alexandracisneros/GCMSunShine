@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SunShine</string>
+    <!-- Used to form a severe weather alert that reads "Heads up: <weather> in <location>!" -->
+    <string name="gcm_weather_alert">Heads up: %1$s in %2$s!</string>
+</resources>
